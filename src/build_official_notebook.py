@@ -671,12 +671,13 @@ Why the Hub is useful for this workflow: Combining climate reanalysis data with 
 # Cell 38: Section 7 - References and acknowledgements
 cells.append(md_cell("""## 7. References and acknowledgements
 
-1. Brocca, L., Melone, F., Moramarco, T., and Morbidelli, R. (2010). Improving runoff prediction through the assimilation of satellite-derived soil moisture. Journal of Hydrology, 385(1-4), 160-170. https://doi.org/10.1016/j.jhydrol.2010.02.018
-2. Brocca, L., et al. (2017). Soil moisture for hydrological applications: Open questions and new opportunities. Water, 9(2), 140. https://doi.org/10.3390/w9020140
-3. Greatrex, H., Hansen, J. W., Garvin, S., Diro, R., Blakeley, S., Le Guen, M., Rao, K. N., and Osgood, D. E. (2015). Scaling up index insurance for smallholder farmers: Recent evidence and insights. CCAFS Report No. 14, CGIAR. https://hdl.handle.net/10568/53101
-4. Maidment, R. I., et al. (2017). A new, long-term daily satellite-based rainfall dataset for operational monitoring in Africa. Scientific Data, 4, 170063. https://doi.org/10.1038/sdata.2017.63
-5. Wood, E. F., et al. (2011). Hyperresolution global land surface modeling: Meeting a grand challenge for science and society. Water Resources Research, 47(5), W05301. https://doi.org/10.1029/2010WR010090
-6. Xu, H. (2006). Modification of normalised difference water index (NDWI) to enhance open water features in remotely sensed imagery. International Journal of Remote Sensing, 27(14), 3025-3033. https://doi.org/10.1080/01431160600589179
+1. Brocca, L., Melone, F., Moramarco, T., Wagner, W., Naeimi, V., Bartalis, Z., and Hasenauer, S. (2010). Improving runoff prediction through the assimilation of the ASCAT soil moisture product. Hydrology and Earth System Sciences, 14(10), 1881-1893. https://doi.org/10.5194/hess-14-1881-2010
+2. Brocca, L., Ciabatta, L., Massari, C., Camici, S., and Tarpanelli, A. (2017). Soil Moisture for Hydrological Applications: Open Questions and New Opportunities. Water, 9(2), 140. https://doi.org/10.3390/w9020140
+3. Greatrex, H., Hansen, J., Garvin, S., Diro, R., Le Guen, M., Blakeley, S., Rao, K., and Osgood, D. (2015). Scaling up index insurance for smallholder farmers: Recent evidence and insights. CCAFS Report No. 14. Copenhagen: CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS). https://hdl.handle.net/10568/53101
+4. Maidment, R. I., Grimes, D., Black, E., Tarnavsky, E., Young, M., Greatrex, H., Allan, R. P., Stein, T., Nkonde, E., Senkunda, S., and Uribe Alcantara, E. M. (2017). A new, long-term daily satellite-based rainfall dataset for operational monitoring in Africa. Scientific Data, 4(1), 170063. https://doi.org/10.1038/sdata.2017.63
+5. Runfola, D., Anderson, A., Baier, H., Crittenden, M., Dowker, E., Fuhrig, S., Goodman, S., Grimsley, G., Layko, R., Melville, G., Mulder, M., Oberman, R., Panganiban, J., Peck, A., Seitz, L., Shea, S., Slevin, H., Youngerman, R., and Hobbs, L. (2020). geoBoundaries: A global database of political administrative boundaries. PLOS ONE, 15(4), e0231866. https://doi.org/10.1371/journal.pone.0231866
+6. Wood, E. F., Roundy, J. K., Troy, T. J., van Beek, L. P. H., Bierkens, M. F. P., Blyth, E., de Roo, A., Doll, P., Ek, M., Famiglietti, J., Gochis, D., van de Giesen, N., Houser, P., Jaffe, P. R., Kollet, S., Lehner, B., Lettenmaier, D. P., Peters-Lidard, C., Sivapalan, M., Sheffield, J., Wade, A., and Whitehead, P. (2011). Hyperresolution global land surface modeling: Meeting a grand challenge for monitoring Earth's terrestrial water. Water Resources Research, 47(5), W05301. https://doi.org/10.1029/2010WR010090
+7. Xu, H. (2006). Modification of normalised difference water index (NDWI) to enhance open water features in remotely sensed imagery. International Journal of Remote Sensing, 27(14), 3025-3033. https://doi.org/10.1080/01431160600589179
 
 ### Acknowledgements
 
