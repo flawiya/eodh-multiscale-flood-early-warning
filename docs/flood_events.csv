@@ -1,0 +1,11 @@
+country,event,start,end,main_areas,source_note
+nigeria,2012 national floods,2012-07-01,2012-10-31,Niger-Benue basin; 30 of 36 states,web summary 2026-11-16 - VERIFY against EM-DAT / ReliefWeb
+nigeria,2018 Niger-Benue floods,2018-08-01,2018-10-31,Kogi; Niger; Anambra; Delta,web summary 2026-11-16 - VERIFY against EM-DAT / ReliefWeb
+nigeria,2022 national floods,2022-06-01,2022-10-31,33 of 36 states; Lagdo dam release,web summary 2026-11-16 - VERIFY against EM-DAT / ReliefWeb
+nigeria,2024 Maiduguri / Alau dam collapse,2024-08-25,2024-09-30,Borno (Alau dam collapse 2024-09-10),web summary 2026-11-16 - VERIFY against EM-DAT / ReliefWeb
+kenya,2018 long rains floods,2018-03-01,2018-06-15,Rift Valley; central Kenya,web summary 2026-11-16 - VERIFY against EM-DAT / ReliefWeb
+kenya,2019 short rains floods,2019-10-01,2019-12-31,Coast; North Eastern; Rift Valley; West Pokot,web summary 2026-11-16 - VERIFY against EM-DAT / ReliefWeb
+kenya,2020 long rains + Lake Victoria rise,2020-03-01,2020-06-30,Tana; Athi; Lake Victoria shores,web summary 2026-11-16 - VERIFY against EM-DAT / ReliefWeb
+kenya,2023 short rains (El Nino) floods,2023-10-01,2023-12-31,dozens of counties; Tana River; Garissa,web summary 2026-11-16 - VERIFY against EM-DAT / ReliefWeb
+kenya,2024 long rains floods (Mai Mahiu 2024-04-29),2024-03-01,2024-05-31,nationwide; Nakuru (Mai Mahiu),web summary 2026-11-16 - VERIFY against EM-DAT / ReliefWeb
+

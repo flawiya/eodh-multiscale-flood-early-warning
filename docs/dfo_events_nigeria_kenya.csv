@@ -1,0 +1,110 @@
+country,primary,start,end,dead,displaced,severity,area_km2,main_cause,location,rivers,major
+kenya,True,2001-01-13,2001-01-14,4.0,0.0,1.0,4350.0,Heavy rain,"Nairobi and surrounding areas - Dagoretti, Kibera",,False
+kenya,True,2002-04-26,2002-05-28,160.0,168000.0,1.5,1019000.0,Heavy rain,"Kenya - Bundalangi area in Nyanza province. central Meru and Muranga districts near Mount Kenya. Nairobi area. western districts of Kisumu and Busia.  Rivers: Mara, Tana, Sabaki.   
+--Uganda - Counties: Manjiya, Bubukwanga  Districts: Mbale, Bundibugyo,","Kenya: Mara, Tana, Sabaki
+--Uganda: Semliki",True
+kenya,True,2002-04-29,2002-05-02,2.0,0.0,1.0,3830.0,Heavy rain,Nairobi area. Nairobi river,Nairobi,False
+kenya,True,2002-09-16,2002-09-19,0.0,0.0,1.0,63450.0,Heavy rain,"Mombasa, Matuga, Kipevu
+Districts:  Kwale, Kilifi, Mobasa, Taita Taveta",,False
+kenya,True,2002-10-29,2002-11-04,14.0,20000.0,1.0,77900.0,Heavy rain,Eastern Kenya - Madogo Division of Tana River District. Tana River. Marere river in Kinango area of Kwale district.,"Tana, Marere",False
+kenya,False,2002-11-16,2002-11-25,2.0,2300.0,1.0,13980.0,Heavy rain,"Uganda - Kampala area, Nakivubo Channel. 
+Eastern districts: Mbale, Bugiri, Sironko.
+Southwestern districts: Rukungiri, Kabale and Busheny.
+--Kenya - Nyando District, Ayweyo, Awach River.",Awach,False
+kenya,True,2002-11-17,2002-11-20,12.0,2000.0,1.0,920.0,"Dam/Levy, break or release",Central Kenya - Kiambu District - River Riara from Kiambu town to Githurai area in Nairobi.,Riara,False
+kenya,True,2002-12-21,2002-12-23,6.0,3000.0,1.0,750.0,Heavy rain,"Marigat Division in Baringo District. Ng'ambo, Ng'arua, Eldume, Sintaan.",Perkerra River,False
+kenya,True,2003-01-04,2003-01-06,0.0,300.0,1.0,390.0,Heavy rain,"Western Kenya - Kisumu - Manyattta, Dunga and Nyalenda. Kisii.",River Auji.,False
+kenya,True,2003-04-21,2003-06-04,77.0,1000000.0,1.0,291400.0,Heavy rain,"Kenya - Nyanza Province - Districts: Nyando, Migori, Kisumu. Budalangi.  Rift Valley Province - Districts: Nakuru, East Baringo, Kerhicho, Samburu, Koibatek, Nandi, West Pokot.    Western Province - Busia, Trans-Nzoia, Bungoma, Kakamega, Siaya. Sifuno. E","Kenya 
+Nyanza Province -  Nyando, Awach, Migori and Kuja.  
+Rift Valley Province -  Kositei, Cheptokwo, Nginyang, Iriri, Kimondi, Chesita, Murumi, Swam, Orwa.
+Western Province - Nzoia, Ombeyi.  
+Eastern Province - Turkwel, Kerio, Tinganga.  
+Coast Provin",True
+kenya,True,2003-08-24,2003-08-24,0.0,400.0,1.0,2920.0,Brief torrential rain,Kerio Valley - Chepsigot Ward,,False
+kenya,True,2003-08-26,2003-09-12,1.0,2100.0,1.0,2470.0,Heavy rain,Western Kenya - Busia - Budalangi Division of Siaya District. Ugenya and Alego-Usonga constituencies. Bunyala South. villages neighbouring the Yala Swamp.,"Nzoia, Yala",False
+kenya,True,2004-04-09,2004-05-11,50.0,15000.0,1.0,268300.0,Heavy rain,"Kenya:
+--Nyanza Province - districts: Nyando, Rachuonyo, Kisumu, Migori, Homa Bay. South West Kano. Nyakach, Miwani, Ombeyi. Nyatike, Kisii, Muhoroni, Ahero, Rangwe, Aywey.
+--Rift Valley Province - districts: Nakuru, Baringo, Turkana, Nyamira, Machakos,","Kenya:
+Nyanza - Nyando, Mahenya, Sondu-Miriu, Sio, Awach, Ombeyi, Migori and Kuja, Tonde .
+Rift Valley - Chemoron, Endao, Miriu, Athi
+Budalangi - Nzoia
+Central - Thirikwa, Ndarugu, Thiriku
+Mt Kenya - Ruamuthambi 
+Nairobi area - Kirichwa, Ruaraka
+other ri",True
+kenya,True,2005-05-03,2005-06-03,4.0,40000.0,1.5,443200.0,Heavy rain,"Kenya - Nyanza, Western, Rift Valley, Coast and parts of North Eastern provinces - districts: Nyando (Kabonyo, Kakola, Kochogo, Ongeche) , Rachuonyo (Kayitir, Kawadhgone, Koyugi), Nyatike (Kaden), Migori, Garissa (Dadaab), Isiolo (Merti, Gulesa and Malka","Kenya - Nyando, Kibos, Awattende, Maugo. Ombeyi, Athi, Ewaso Nyiro.
+Oluch, Mango and Awach Kagan
+Nyamasaria and Mahenya
+--Uganda - Namatala",True
+kenya,True,2005-06-17,2005-06-20,20.0,1200.0,1.0,3520.0,Heavy rain,"Western Kenya - Busia District - Bukhay,  Walwasi",,False
+kenya,True,2006-04-04,2006-05-22,60.0,17300.0,1.0,538000.0,Heavy rain,"Districts - Malindi, Kilifi, Kwale, Nyando, Homa Bay, Migori, Siaya, Rachuonyo, Isiolo, Samburu, Laikipia, Wajir, Garissa, Mandera","Uaso Nyiro, Sabaki, Tana, Migori, Kuja, Nzoia, Nyando, Genale Wenz",True
+kenya,True,2006-10-15,2006-10-26,6.0,2000.0,1.0,12730.0,Heavy rain,"Coast Province - Kilifi and Kwale districts - Kaloleni, Mazeras, Ramisi. Kisauni Division, Mombasa District. Mishoromoni, Kiembeni, Malindi","Kombeni, Kilindini.",False
+kenya,True,2006-10-23,2007-01-04,150.0,700000.0,1.0,950000.0,Heavy rain,"Kenya - Coast, North-Eastern, Western and Rift Valley provinces - Isiolo (Ngarmara, Malkagala, Merti, Gafarsa). Garissa (Hagadera, Ahantabak, Alikune, Jarirot Amuma, Boralgi, Daadab, Ifo). Tana River District (Bula Bahati, Mnazini, Witu, Hola through Wen","Kenya - Ewaso Nyiro, Uaso Nyiro, Tana river and tributaries. Ramisi. Lak Dera, Lak Bor, Lagahar. Ndarugu. Sosiani. Ramisi. Nzoia. Ongoche, Kuja, Migori, Ongohe. Nyamasaria. Sabaki. Awach. Ragana.
+--Somalia - Jubba River, Lach Dera, Lach Bissigh
+--Tanzani",True
+kenya,True,2007-04-21,2007-04-30,0.0,2460.0,1.0,1100.0,Heavy rain,"Busia District - Budalangi, Bwalwanga, Makhunda, Sitiri",Nzoia,False
+kenya,True,2007-05-15,2007-06-14,5.0,8500.0,1.0,13870.0,Heavy rain,"Coast Province - districts: Mombasa (Likoni, Kadongo, Moroto, Junda, Kadzonzo, Mushomoroni, Kisauni, Changamwe), Malindi, Kwale, Kilifi (Kikambala). Lamu (Witu, Mpeketoni, Soroko, Bomani). Kaloleni. Tana River District","Mwakuhenga, Mkuru",False
+kenya,False,2007-08-15,2007-10-31,52.0,520000.0,1.5,107800.0,Heavy rain,"Kenya - Budalangi region - Busia and Bunyala Districts - Magombe, Bunyala and Khajula locations. Namanjalala. Hakati, Kongoini, Khuboyi, Makunda A and Makunda B. Nakuru District - Rongai. Molo District. Siaya District - Alego Usonga and Ugenya. Kitale Ea","Kenya - Nzoia, Sabwani, Malakisi, Malaba, Rongai.
+Uganda - Kirik, Moroto, Aswa, Ora, Ssezibwa, Dopeth. Muzizi. Nyangoma",True
+kenya,True,2007-11-21,2007-12-16,0.0,6000.0,1.0,6100.0,Heavy rain,"Tana River District - Garsen Division, Hweani, Mnazini Bahati. Bura, Wenje, Garsen, Boji, Ozi and Kau. Tana Delta. Iskadeck",Tana,False
+kenya,True,2007-12-12,2007-12-15,4.0,2000.0,1.0,6200.0,Heavy rain,Taita Taveta District. Voi. Wundanyi Division. Mwatate.,,False
+kenya,True,2008-03-17,2008-04-05,1.0,9600.0,1.0,50220.0,Heavy rain,"Kenya - Coast Province: Taita and Taveta districts - Kimorigo, Eldoro and Marodo. Kimorigo, Mbogoni and Mahoo. Voi, Tanzania and Bondeni.  
+Tanzania - Manyara region - Mirerani area. Arusha.","Voi, Lumi, Ruvu tributaries, Lake Jipe tributaries.",False
+kenya,True,2008-03-20,2008-04-02,2.0,10000.0,1.0,21280.0,Heavy rain,"Rift Valley Province 
+Chalbi District, North Horr Constituency - Bubisa Village, Mubisa area. Marsabit District. Meru Central District.  
+Rachuonyo district - Naivasha area - Kodhoch, West Karachuonyo. Koyugi, Kawadhgone Nyongo and Wagwe. Onyege.",,False
+kenya,True,2008-03-28,2008-04-02,3.0,160.0,1.0,3970.0,Heavy rain,"Nyanza Province - Lower Nyakach Division - Rang’ul, North Nyakach, Pap Onditi and Asalo. Nyando district. Kasai. Kisumu's Nyalenda slums",Nyando and Awach. Auji and Kibos,False
+kenya,True,2008-04-20,2008-04-22,0.0,2000.0,1.5,240.0,Heavy rain,Homa Bay - Asego Division - Wahambla and Got Kokech villages,River Rangwena,True
+kenya,True,2008-06-13,2008-06-20,16.0,8658.0,1.5,40030.0,,Tana Delta district,,True
+kenya,True,2008-10-14,2008-10-16,3.0,10000.0,1.0,45130.0,Heavy Rain,,,False
+kenya,True,2008-11-10,2008-11-12,0.0,28000.0,1.5,37960.0,Heavy Rain,"Western Kenya, Nzoia River",,True
+kenya,True,2009-10-20,2009-10-28,0.0,2000.0,1.0,197700.0,Heavy Rain,Tana Delta and Tana River; between Malindi and Garsen,,False
+kenya,True,2009-12-21,2010-01-13,21.0,30000.0,1.0,176700.0,Heavy Rain,"Turkana East, Rarieda, Nairobi, Kajiado North, Narok, Rachuonyo, East Pokot, Mogotio, North Rift  (Turkana East district, East and West Pokot districts, Kenya-Ethiopia-Sudan  roads cut.",,False
+kenya,True,2010-03-07,2010-05-03,26.0,2500.0,1.5,40320.0,Torrential Rain,"Marsabit North, Migori and Uriri districts in South Nyanza, Mandera; North Rift, Pokot Central District",,True
+kenya,True,2010-05-08,2010-05-24,100.0,70000.0,1.5,196100.0,Heavy Rain,"Western Kenya, Amoni, Osuret, Asing'e, Among'ura, Kamolo and Osajai; Salabani location, Marigat District in Rift Valley province",,True
+nigeria,True,2000-09-20,2000-09-21,0.0,0.0,1.0,7700.0,Brief torrential rain, Lagos city,,False
+nigeria,True,2001-07-22,2001-07-22,0.0,3802.0,1.0,1060.0,Heavy rain,Talata Marafa area of Zamfara State ,,False
+nigeria,True,2001-08-27,2001-09-04,200.0,80000.0,1.5,14300.0,"Dam/Levy, break or release","Kano State - Local government areas of Dawakin-Kudu, Kumbotso, Kunchi, Warawa and Wudil. Towns: Wudil, Kura, Gachi, Gidan Tukku, Garin-dau. Rivers: Wudil, Kano. 
+--Jigawa State - Local government areas Ringin and Taura. dam releases at Taura, Tiga, Goje,","Kano State -  Wudil, Kano.",True
+nigeria,True,2002-07-24,2002-07-26,2.0,0.0,1.0,1650.0,Heavy rain,Lagos,,False
+nigeria,True,2003-05-28,2003-05-29,1.0,800.0,1.0,790.0,Brief torrential rain,Kano State - Kura area. Kura and Kosawa towns.  Villages: Imawa-Karfi and Imawa-Kosa.,,False
+nigeria,True,2003-06-07,2003-06-08,0.0,2000.0,1.0,5710.0,Heavy rain,"Jigawa State - Kaugama, Unguwar Tudu, Dankware, Guiwa, Roni, Kanti.",,False
+nigeria,True,2003-07-22,2003-07-24,0.0,160.0,1.0,1520.0,Heavy rain,Gombe State - Yamattu East and Akko local government areas. Dadin-Kowa and Kumo,,False
+nigeria,True,2003-07-23,2003-07-25,5.0,0.0,1.0,8170.0,Heavy rain,"Cross Rivers - Ikom, Obudu, Ogoja, Yala, Obanliku and Obubro local government areas.",,False
+nigeria,True,2003-07-27,2003-07-27,2.0,3000.0,1.0,2620.0,Heavy rain,Benue State - Vandeikya Local Government area. Districts: Mbaduku and Mbayongu.,Aya and Be,False
+nigeria,True,2003-08-05,2003-10-12,7.0,10000.0,1.0,138900.0,Heavy rain,"Northwestern Nigeria - Sokoto State (Goronyo) 
+Southern Niger - Dosso, Tahouna, Tillaberi and Zinder regions","Sokoto, Niger",False
+nigeria,True,2003-08-08,2003-08-24,1.0,16000.0,1.0,19630.0,Heavy rain,"Northern Nigeria: 
+Jigawa State: Hadejia, Kaugama, Miga, Guri, Gumel, Majia, Maig-atari, Krikasamma, Anyo, Gagarawa, Dutse, Marki, Malam Madori, Arafi, Dabar Magini, Fulani Yola. 
+Katsina State: Katsina city and surrounding areas. Batsari Local Governmen",Hadejia River,False
+nigeria,True,2003-09-05,2003-10-28,16.0,210000.0,1.0,134900.0,Heavy rain,"Northern Nigeria:
+--Kaduna State - Nasarawa and Mado districts of Kaduna City. Other Districts: Barnawa, Sabon Tasha, Tudun Wada, Kigo, Angwam Rimi, Angwan Dosa, Soban Kawo, Barkin Ruwa, Malali, Kabala Costain, Dirkaniya. Soba.
+--Kano State - Kabo, Makod","Niger, Kaduna - Kaduna, Lower Niger river below Lake Kainji.
+--Jigawa - Hadejia and Jamaare",True
+nigeria,True,2003-09-22,2003-10-10,28.0,1000.0,1.0,137700.0,Heavy rain,"Eastern Nigeria - States: Adamawa, Benue -Local Government areas: Numan, Demsa, Lamurde, Shelleng, Borrong, Fufore, Gurin, Villpi, Gyawana, Kiri, Yola Central, Yola North, Yola South, Malabu, Ado
+Cameroon -","Benue River
+Release from Lagdo Dam in Cameroun",False
+nigeria,True,2004-06-17,2004-06-18,0.0,0.0,1.0,340.0,Heavy rain,Lagos city,,False
+nigeria,True,2004-06-22,2004-06-25,0.0,300.0,1.0,8720.0,Heavy rain,"Jigawa State - Kaugama and Birniwa Local Go-vernment Areas. Villages: Tashena, Dankida, Arki, Damatsa, Almu and Sau-rakin.",Hadejia River Valley,False
+nigeria,True,2004-08-08,2004-08-12,65.0,2500.0,1.0,5480.0,Heavy rain,"Northeastern Nigeria Adamawa state - Song area: Loko, Dumne and Dikwa",Tributary of the Benue river,True
+nigeria,True,2004-08-08,2004-08-10,0.0,15000.0,1.0,510.0,Heavy rain,Southern Nigeria town of Ughelli in Delta State.,Cassidy and Eriemu,False
+nigeria,True,2004-08-21,2004-08-23,25.0,3000.0,1.0,20780.0,Heavy rain,"Gombe State - Yarwa-Gana, Burundi, Jekadafari, Yalenguruza, Bega, Bolari, Chencheniya and Tudun Wada wards. Tula Chiefdom in Kaltungo Local Government Area",,False
+nigeria,True,2005-08-07,2005-09-16,3.0,7.0,1.0,159500.0,Heavy rain,"Jigawa State - Kirikasanma, Rin-gim, Babura, Jahun and Dutse.  
+--Bauchi State - Doguwa
+--Taraba State - Jalingo, Wukari 
+--Yobe State - Turmi in Fika.","Jigawa, Bauchi, Yobe - Hadejia river and tributaries.
+Taraba - Benue river and tributaries, Jalingo.
+",False
+nigeria,True,2005-09-26,2005-09-29,0.0,1500.0,1.0,11550.0,Heavy rain,"Yobe State - Nguru area. Birnin Nguru, Aroro and Ganga. Zabarmawa",Hadejia tributaries,False
+nigeria,True,2006-07-15,2006-07-17,0.0,2000.0,1.0,724.0,Heavy rain,Edo State - Auchi township,Niger River tributaries,False
+nigeria,True,2006-07-18,2006-07-20,4.0,40.0,1.0,1851.0,Heavy rain,Nasarawa state - Abuja and Mararaba,Mararaba River,False
+nigeria,False,2006-09-05,2006-10-17,52.0,20000.0,1.0,768800.0,Heavy rain,"Chad - Western and southwestern Chad - N'Djamena, Sahr, Doba, Bébidja, Goré, Pala and Koumra
+--Nigeria - Benue river valley","Logone and tributaries. 
+Benue and tributaries",True
+nigeria,True,2006-09-12,2006-09-13,20.0,0.0,1.0,870.0,Brief torrential rain,Kwara State - town of Obo-Ile in Ekiti Local Government council area,Hija river,False
+nigeria,True,2007-08-01,2007-08-15,6.0,5000.0,1.0,5270.0,Heavy rain,"Lagos area - Ikorodu, Kosofe
+Ogun state - Abeokuta",Ogun River,False
+nigeria,True,2007-08-04,2007-10-21,101.0,140000.0,1.0,630100.0,Heavy rain,"Plateau state - Wase, Langtang, Kanke and Kanam. Gyambar, Kukawa, Saluwe, Anguwan Gar, Wase Tofa, Zanko, Gandu and Gwaiwan Kogi. Yarshi, Pilgani. Bakinlong, Karfi and Namarang
+--Adamawa State - Yola, Jimeta, Demsa Loko and villages in Numan, Demsa and La","Wase River. Benue tributaries. Hadejia Jama'are river. Niger river, Enzuji. Kaduna. Cross River.",True
+nigeria,True,2009-09-10,2009-09-18,0.0,3000.0,2.0,64200.0,Heavy Rain,"Zamfara State, Gusau",,True
+nigeria,True,2009-10-20,2009-10-26,0.0,5000.0,1.0,53020.0,Heavy Rain,Ohia-Era community in Obio/Akpor local government area of Rivers State.Also Delta State,,False
